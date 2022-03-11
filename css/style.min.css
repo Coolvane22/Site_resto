@@ -1755,7 +1755,8 @@ section[data-section=menu] {
 
 @media screen and (max-width:768px) {
     .probootstrap-heading .primary-heading {
-        font-size: 70px
+        font-size: 70px;
+        color : #E0FFFF	;
     }
 }
 
