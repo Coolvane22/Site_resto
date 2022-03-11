@@ -1776,12 +1776,12 @@ section[data-section=menu] {
 @media screen and (max-width:768px) {
     .probootstrap-heading .secondary-heading {
         font-size: 40px;
-        color : #00FA9A	;
+        color : #a51558	;
     }
 }
 
 .probootstrap-heading.dark .secondary-heading {
-    color: #00FA9A	
+    color: #cc099b	
 }
 
 .probootstrap-heading .seperator {
