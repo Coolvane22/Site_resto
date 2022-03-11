@@ -103,7 +103,7 @@ a:hover, a:focus, a:active {
   box-shadow: none;
   border-radius: 0px;
   margin-bottom: 0px;
-  background: none;
+  background: rgb(255, 0, 149);
   -webkit-transition: .3s all;
   transition: .3s all;
 }
